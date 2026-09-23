@@ -52,7 +52,7 @@ The objective was to:
 
 ### 1. Customer Overview
 
-![Customer Overview](Dashboard/Customer Overview.png)
+![Customer Overview](Dashboard/Customer%20Overview.png)
 
 Provides an overview of customer demographics, income and spending patterns.
 
