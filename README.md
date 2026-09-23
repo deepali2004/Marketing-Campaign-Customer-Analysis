@@ -58,7 +58,7 @@ Provides an overview of customer demographics, income and spending patterns.
 
 ### 2. Product & Purchase Behavior
 
-![Product & Purchase Behavior](Dashboard/Product_Purchase_Behavior.png)
+![Product Purchase Behavior](Dashboard/Product_Purchase_behavior.png) 
 
 Analyzes product spending and purchasing behavior across different channels and customer segments.
 
